@@ -1,0 +1,8 @@
+{
+    "workspace.library": [
+        "/Users/rain/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/opt/homebrew/Cellar/neovim/0.9.2/share/nvim/runtime/lua",
+        "/Users/rain/.local/share/nvim/lazy/nvim-picgo/lua",
+        "${3rd}/luv/library"
+    ]
+}
